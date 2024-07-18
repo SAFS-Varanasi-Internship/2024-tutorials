@@ -1,87 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/team.html</loc>
-    <lastmod>2024-07-02T00:52:52.204Z</lastmod>
+    <loc>https://SAFS-Varanasi-Internship/2024-tutorials/team.html</loc>
+    <lastmod>2024-07-02T23:11:58.480Z</lastmod>
   </url>
   <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/overview.html</loc>
-    <lastmod>2024-07-02T00:52:52.121Z</lastmod>
+    <loc>https://SAFS-Varanasi-Internship/2024-tutorials/overview.html</loc>
+    <lastmod>2024-07-02T23:11:58.480Z</lastmod>
   </url>
   <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/04_Appending_Data.html</loc>
-    <lastmod>2024-07-02T00:52:52.162Z</lastmod>
+    <loc>https://SAFS-Varanasi-Internship/2024-tutorials/notebooks-data/02_IO_Zarr.html</loc>
+    <lastmod>2024-07-18T22:30:09.025Z</lastmod>
   </url>
   <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/02_Xarray_hvplot.html</loc>
-    <lastmod>2024-07-02T00:52:52.154Z</lastmod>
+    <loc>https://SAFS-Varanasi-Internship/2024-tutorials/nasa-tutorials/00_Setup.html</loc>
+    <lastmod>2024-07-02T23:11:58.172Z</lastmod>
   </url>
   <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/02_IO_Zarr.html</loc>
-    <lastmod>2024-07-02T00:52:52.150Z</lastmod>
+    <loc>https://SAFS-Varanasi-Internship/2024-tutorials/coc.html</loc>
+    <lastmod>2024-07-02T23:11:57.768Z</lastmod>
   </url>
   <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/02_Get_Points.html</loc>
-    <lastmod>2024-07-02T00:52:52.134Z</lastmod>
+    <loc>https://SAFS-Varanasi-Internship/2024-tutorials/index.html</loc>
+    <lastmod>2024-07-18T21:47:31.961Z</lastmod>
   </url>
   <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/01_OPeNDAP_Downloader.html</loc>
-    <lastmod>2024-07-02T00:52:52.129Z</lastmod>
+    <loc>https://SAFS-Varanasi-Internship/2024-tutorials/nasa-tutorials/index.html</loc>
+    <lastmod>2024-07-02T23:11:58.392Z</lastmod>
   </url>
   <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/01_ERDDAP_Downloader.html</loc>
-    <lastmod>2024-07-02T00:52:52.127Z</lastmod>
+    <loc>https://SAFS-Varanasi-Internship/2024-tutorials/notebooks-ml/ConvLSTM_Tutorial.html</loc>
+    <lastmod>2024-07-17T23:24:17.745Z</lastmod>
   </url>
   <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/00_NASA_Earthdata_Authentication.html</loc>
-    <lastmod>2024-07-02T00:52:52.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/nasa-tutorials/00_Setup.html</loc>
-    <lastmod>2024-07-02T00:52:52.002Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/coc.html</loc>
-    <lastmod>2024-07-02T00:52:51.255Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/index.html</loc>
-    <lastmod>2024-07-02T22:41:31.695Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/nasa-tutorials/index.html</loc>
-    <lastmod>2024-07-02T00:52:52.121Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/01_ERA5_S3_Downloader.html</loc>
-    <lastmod>2024-07-02T00:52:52.127Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/01_MOTU_Downloader.html</loc>
-    <lastmod>2024-07-02T00:52:52.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/01_earthaccess_Downloader.html</loc>
-    <lastmod>2024-07-02T00:52:52.129Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/02_Graphing_Map_Data.html</loc>
-    <lastmod>2024-07-02T00:52:52.142Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/02_Xarray.html</loc>
-    <lastmod>2024-07-02T00:52:52.150Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/02_Zarr_Access_netCDF.html</loc>
-    <lastmod>2024-07-02T00:52:52.162Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/notebooks-data/04_Combining_Data.html</loc>
-    <lastmod>2024-07-02T00:52:52.167Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAFS-Varanasi-Internship.github.io/2024-book/support.html</loc>
-    <lastmod>2024-07-02T00:52:52.204Z</lastmod>
+    <loc>https://SAFS-Varanasi-Internship/2024-tutorials/support.html</loc>
+    <lastmod>2024-07-02T23:11:58.480Z</lastmod>
   </url>
 </urlset>

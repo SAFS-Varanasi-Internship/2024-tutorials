@@ -1,1 +1,1 @@
-Sitemap: https://SAFS-Varanasi-Internship.github.io/2024-book/sitemap.xml
+Sitemap: https://SAFS-Varanasi-Internship/2024-tutorials/sitemap.xml
