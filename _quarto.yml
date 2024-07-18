@@ -4,22 +4,22 @@ project:
   render:
     - "*.*"
     - "!nasa-tutorials/*.ipynb"
+    - "!notebooks-data/*.ipynb"
 
 execute:
   freeze: auto
   
 website:
   page-navigation: true  
-  title: "Handbook on the Indian Ocean Zarr File"
+  title: "Machine Learning for Fisheries: Varanasi Internship 2024"
   favicon: images/incois-icon.png
-  site-url: https://SAFS-Varanasi-Internship/indian-ocean-zarr
-  repo-url: https://github.com/SAFS-Varanasi-Internship/indian-ocean-zarr
+  site-url: https://SAFS-Varanasi-Internship/2024-tutorials
+  repo-url: https://github.com/SAFS-Varanasi-Internship/2024-tutorials
   repo-actions: [edit, issue, source]
   
-  page-footer: <img src="/images/incois.png" alt="INCOIS logo" style="width:150px"><br />ITCOocean Hack2week (2023)
+  page-footer: <img src="/images/banner.png" alt="Indian Ocean" style="width:300px"><br />Varanasi Internship (2024)
  
   sidebar:
-    logo: images/incois-logos.png
     pinned: true
     align: center
     
@@ -27,47 +27,27 @@ website:
     collapse-level: 1
     toc-expand: false
     contents:
-      - section: "Documentation"
+      - text: "Home"
+        href: index.html
+      - section: "Tutorials"
         contents:
-          - notebooks-data/00_NASA_Earthdata_Authentication.ipynb
-          - python-notebooks/01_earthaccess_Downloader.ipynb
-          - python-notebooks/01_ERA5_S3_Downloader.ipynb
-          - python-notebooks/01_ERDDAP_Downloader.ipynb
-          - python-notebooks/01_MOTU_Downloader.ipynb
-          - python-notebooks/04_Combining_Data.ipynb
-          - python-notebooks/04_Appending_Data.ipynb
-      - section: "Using the Zarr Database"
-        contents:
-          - notebooks-data/00_NASA_Earthdata_Authentication.ipynb
+          - text: "ConvLSTM"
+            href: notebooks-ml/ConvLSTM_Tutorial.ipynb
+      - section: "Projects"
       - text: <img width=100px>
-      - text: <img src="/images/ecsn.png" width=100px>
-        href: https://iioe-2.incois.gov.in/ecsn/index.html
-      - text: <img src="/images/ocean-decade.png" width=150px>
-        href: https://oceandecade.org/
-      - text: <img src="/images/dcc-ior.png" width=150px>
-        href: https://incois.gov.in/dcc-ior/index.jsp
-      - text: <img src="/images/ecop.png" width=150px>
-        href: https://www.ecopdecade.org/
-      - text: DECCaD-IO
-        href: https://oceandecade.org/actions/devising-early-career-capacity-development-indocn-deccad-io/
-      - text: <img src="/images/ohw.png" width=150px>
-        href: https://www.oceanhackweek.org/
 
   navbar:
     background: primary
     search: true
     right: 
       - icon: server
-        href: https://itcoocean.2i2c.cloud/
+        href: https://fish.opensci.live/
         text: "JupyterHub"
       - icon: wechat
-        href: https://github.com/orgs/Hackweek-ITCOocean/discussions
+        href: https://github.com/SAFS-Varanasi-Internship/Summer-2024/discussions
         text: "Discussions"
-      - icon: slack
-        href: https://app.slack.com/client/T05PV2USY56/C05P7QP47UL
-        text: "Slack"
       - icon: globe
-        href: https://github.com/Hackweek-ITCOocean
+        href: https://github.com/SAFS-Varanasi-Internship
         text: "GH org"
 
 
