@@ -1,0 +1,14 @@
+---
+title: "example"
+format: pdf
+editor: visual
+---
+
+# Title
+
+$$
+a+b
+$$
+
+* A
+* B
