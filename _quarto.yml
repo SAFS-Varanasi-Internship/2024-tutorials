@@ -17,10 +17,10 @@ website:
   repo-url: https://github.com/SAFS-Varanasi-Internship/2024-tutorials
   repo-actions: [edit, issue, source]
   
-  page-footer: <img src="/images/banner.png" alt="Indian Ocean" style="width:300px"><br />Varanasi Internship (2024)
+  page-footer: <img src="/images/banner.png" alt="Indian Ocean" style="width:300px"><br />Varanasi Internship (2023, 2024, 2025)
  
   sidebar:
-    title: "ML for Fisheries: Varanasi Internship 2024"
+    title: "ML for Fisheries"
     pinned: true
     align: center
     tools: 
